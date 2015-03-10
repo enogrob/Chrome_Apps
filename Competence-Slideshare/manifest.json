@@ -1,0 +1,17 @@
+{
+  "name": "Slideshare",
+  "description": "Access Slideshare",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.slideshare.net/"
+    ],
+    "launch": {
+      "web_url": "http://www.slideshare.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

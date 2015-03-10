@@ -1,0 +1,17 @@
+{
+  "name": "Java.com",
+  "description": "Access Java.com",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.java.com/en/"
+    ],
+    "launch": {
+      "web_url": "http://www.java.com/en/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

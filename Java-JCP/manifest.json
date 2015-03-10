@@ -1,0 +1,17 @@
+{
+  "name": "JCP",
+  "description": "Access JCP",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://jcp.org/"
+    ],
+    "launch": {
+      "web_url": "http://jcp.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

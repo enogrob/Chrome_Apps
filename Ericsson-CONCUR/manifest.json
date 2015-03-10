@@ -1,0 +1,17 @@
+{
+  "name": "CONCUR",
+  "description": "Access Ericsson CONCUR",
+  "version": "3",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://fss.ericsson.com/affwebservices/public/saml2sso?SPID=concur"
+    ],
+    "launch": {
+      "web_url": "https://fss.ericsson.com/affwebservices/public/saml2sso?SPID=concur"
+    }
+  },
+  "icons": {
+    "128": "128.jpg"
+  }
+}

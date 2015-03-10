@@ -1,0 +1,17 @@
+{
+  "name": "Skope",
+  "description": "Access Skope",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.oskope.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.oskope.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

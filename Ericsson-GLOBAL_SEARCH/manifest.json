@@ -1,0 +1,17 @@
+{
+  "name": "GLOBAL SEARCH",
+  "description": "Access Ericsson GLOBAL SEARCH",
+  "version": "2",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://search.internal.ericsson.com/"
+    ],
+    "launch": {
+      "web_url": "https://search.internal.ericsson.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

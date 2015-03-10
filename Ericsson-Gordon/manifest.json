@@ -1,0 +1,17 @@
+{
+  "name": "Gordon",
+  "description": "Access Gordon.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://gordon-web.ericsson.se/index.jsp"
+    ],
+    "launch": {
+      "web_url": "https://gordon-web.ericsson.se/index.jsp"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

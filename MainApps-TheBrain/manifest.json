@@ -1,0 +1,17 @@
+{
+  "name": "The Brain",
+  "description": "Acess The Brain",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.thebrain.com/products/thebrain/"
+    ],
+    "launch": {
+      "web_url": "http://www.thebrain.com/products/thebrain/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

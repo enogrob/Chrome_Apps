@@ -1,0 +1,17 @@
+{
+  "name": "UC Softway",
+  "description": "Access UC Softway",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://softwaysa.csod.com/client/softwaysa/default.aspx"
+    ],
+    "launch": {
+      "web_url": "https://softwaysa.csod.com/client/softwaysa/default.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

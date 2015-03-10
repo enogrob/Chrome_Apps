@@ -1,0 +1,17 @@
+{
+  "name": "Apps",
+  "description": "Access Apps",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://admin.google.com/zoatworks.net/AdminHome?utm_source=sign-in&utm_medium=email&utm_campaign=global-spark2013&utm_content=c1a_pt_BR_global"
+    ],
+    "launch": {
+      "web_url": "https://admin.google.com/zoatworks.net/AdminHome?utm_source=sign-in&utm_medium=email&utm_campaign=global-spark2013&utm_content=c1a_pt_BR_global"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

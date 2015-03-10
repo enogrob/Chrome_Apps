@@ -1,0 +1,17 @@
+{
+  "name": "Webmail",
+  "description": "Access Webmail",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://webmail.gsw.com.br/owa"
+    ],
+    "launch": {
+      "web_url": "https://webmail.gsw.com.br/owa"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

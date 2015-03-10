@@ -1,0 +1,17 @@
+{
+  "name": "JobServe",
+  "description": "Acess JobServe.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.jobserve.com/us/en/Candidate/Home.aspx"
+    ],
+    "launch": {
+      "web_url": "https://www.jobserve.com/us/en/Candidate/Home.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

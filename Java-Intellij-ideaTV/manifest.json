@@ -1,0 +1,17 @@
+{
+  "name": "Intellij-ideaTV",
+  "description": "Access Intellij-ideaTV",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://tv.jetbrains.net/channel/intellij-idea"
+    ],
+    "launch": {
+      "web_url": "http://tv.jetbrains.net/channel/intellij-idea"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

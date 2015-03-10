@@ -1,0 +1,17 @@
+{
+  "name": "My Learning",
+  "description": "Acess My learning",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.myericssonlearning.com/sumtotal/app/management/LMS_LearnerHome.aspx?FromLogin=1"
+    ],
+    "launch": {
+      "web_url": "https://www.myericssonlearning.com/sumtotal/app/management/LMS_LearnerHome.aspx?FromLogin=1"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

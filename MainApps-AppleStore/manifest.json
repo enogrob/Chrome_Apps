@@ -1,0 +1,17 @@
+{
+  "name": "Apple Store",
+  "description": "Acess Apple Store Brazil.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://store.apple.com/br/account/home"
+    ],
+    "launch": {
+      "web_url": "http://store.apple.com/br/account/home"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

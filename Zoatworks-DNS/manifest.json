@@ -1,0 +1,17 @@
+{
+  "name": "DNS",
+  "description": "Access DNS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://idp.securepaynet.net/login.aspx?SPKey=SPDNS-M1-003&myaUrl=%2fZoneFile.aspx&zone=zoatworks.net&zoneType=0&sa=isc%3d%26prog_id%3d412956&prog_id=412956"
+    ],
+    "launch": {
+      "web_url": "https://idp.securepaynet.net/login.aspx?SPKey=SPDNS-M1-003&myaUrl=%2fZoneFile.aspx&zone=zoatworks.net&zoneType=0&sa=isc%3d%26prog_id%3d412956&prog_id=412956"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

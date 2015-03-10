@@ -1,0 +1,17 @@
+{
+  "name": "WCin",
+  "description": "Access RICC WCin database",
+  "version": "2",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://146.250.159.180"
+    ],
+    "launch": {
+      "web_url": "http://146.250.159.180"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

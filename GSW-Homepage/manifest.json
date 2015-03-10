@@ -1,0 +1,17 @@
+{
+  "name": "GSW",
+  "description": "Acess GSW",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://portal.gsw.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://portal.gsw.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Java EE API",
+  "description": "Access Java EE API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://docs.oracle.com/javaee/7/api/"
+    ],
+    "launch": {
+      "web_url": "http://docs.oracle.com/javaee/7/api/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

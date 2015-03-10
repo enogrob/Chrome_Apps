@@ -1,0 +1,17 @@
+{
+  "name": "CodeCube",
+  "description": "Access CodeCube",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://codecube.io/"
+    ],
+    "launch": {
+      "web_url": "http://codecube.io/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

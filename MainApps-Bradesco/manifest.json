@@ -1,0 +1,17 @@
+{
+  "name": "Bradesco",
+  "description": "Access Bradesco",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.bradesco.com.br"
+    ],
+    "launch": {
+      "web_url": "http://www.bradesco.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

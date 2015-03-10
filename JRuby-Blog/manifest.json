@@ -1,0 +1,17 @@
+{
+  "name": "JRuby Blog",
+  "description": "Access JRuby Blog",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://blog.headius.com/"
+    ],
+    "launch": {
+      "web_url": "http://blog.headius.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

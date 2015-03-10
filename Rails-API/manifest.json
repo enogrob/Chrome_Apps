@@ -1,0 +1,17 @@
+{
+  "name": "Ruby on Rails API",
+  "description": "Access Ruby on Rails API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://api.rubyonrails.org/"
+    ],
+    "launch": {
+      "web_url": "http://api.rubyonrails.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

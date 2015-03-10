@@ -1,0 +1,17 @@
+{
+  "name": "Service Desk",
+  "description": "Access Service Desk",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://servicedesk.gsw.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://servicedesk.gsw.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

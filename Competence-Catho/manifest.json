@@ -1,0 +1,17 @@
+{
+  "name": "Catho Online",
+  "description": "Acess Catho Online.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://home.catho.com.br/area-candidato/"
+    ],
+    "launch": {
+      "web_url": "http://home.catho.com.br/area-candidato/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

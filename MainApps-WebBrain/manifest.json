@@ -1,0 +1,17 @@
+{
+  "name": "Web Brain",
+  "description": "Publish your brain and share your thoughts with others.",
+  "version": "3",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://webbrain.com/brainpage/brain/63D6CDAD-FA8D-AD59-D162-6E550B9FE374"
+    ],
+    "launch": {
+      "web_url": "http://webbrain.com/brainpage/brain/63D6CDAD-FA8D-AD59-D162-6E550B9FE374"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

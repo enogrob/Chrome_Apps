@@ -1,0 +1,17 @@
+{
+  "name": "Hollerith",
+  "description": "Acess Hollerith",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://ebrspmw002.br.am.ericsson.se/holerite/"
+    ],
+    "launch": {
+      "web_url": "http://ebrspmw002.br.am.ericsson.se/holerite/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

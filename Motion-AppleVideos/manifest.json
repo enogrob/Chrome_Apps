@@ -1,0 +1,17 @@
+{
+  "name": "Apple Videos",
+  "description": "Access Apple Videos",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://developer.apple.com/videos/"
+    ],
+    "launch": {
+      "web_url": "https://developer.apple.com/videos/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Reembolso SJC",
+  "description": "Acess Reembolso SJC",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://intranet.gsw.com.br/gswapp/gred/gred.nsf/"
+    ],
+    "launch": {
+      "web_url": "http://intranet.gsw.com.br/gswapp/gred/gred.nsf/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

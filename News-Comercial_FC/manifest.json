@@ -1,0 +1,17 @@
+{
+  "name": "Comercial FC",
+  "description": "Access Comercial FC",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.comercial-fc.com.br"
+    ],
+    "launch": {
+      "web_url": "http://www.comercial-fc.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

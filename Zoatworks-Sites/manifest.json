@@ -1,0 +1,17 @@
+{
+  "name": "Sites",
+  "description": "Access Sites",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://sites.zoatworks.net"
+    ],
+    "launch": {
+      "web_url": "http://sites.zoatworks.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

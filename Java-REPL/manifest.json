@@ -1,0 +1,17 @@
+{
+  "name": "Java REPL",
+  "description": "Access Java REPL",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.javarepl.com/console.html"
+    ],
+    "launch": {
+      "web_url": "http://www.javarepl.com/console.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

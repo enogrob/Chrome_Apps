@@ -1,0 +1,17 @@
+{
+  "name": "MacDevCenter",
+  "description": "Access MacDevCenter",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://developer.apple.com/devcenter/mac/index.action"
+    ],
+    "launch": {
+      "web_url": "https://developer.apple.com/devcenter/mac/index.action"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

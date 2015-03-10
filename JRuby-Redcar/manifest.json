@@ -1,0 +1,17 @@
+{
+  "name": "Redcar",
+  "description": "Access Redcar",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://redcareditor.com/"
+    ],
+    "launch": {
+      "web_url": "http://redcareditor.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

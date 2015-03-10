@@ -1,0 +1,17 @@
+{
+  "name": "LogMeIn",
+  "description": "Acess LogMeIn",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://secure.logmein.com"
+    ],
+    "launch": {
+      "web_url": "https://secure.logmein.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

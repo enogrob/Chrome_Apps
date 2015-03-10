@@ -1,0 +1,17 @@
+{
+  "name": "ZoatWorks",
+  "description": "Access ZoatWorks",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.zoatworks.net"
+    ],
+    "launch": {
+      "web_url": "http://www.zoatworks.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

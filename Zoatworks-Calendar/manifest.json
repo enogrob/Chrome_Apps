@@ -1,0 +1,17 @@
+{
+  "name": "Calendar",
+  "description": "Access Calendar",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://calendar.zoatworks.net"
+    ],
+    "launch": {
+      "web_url": "http://calendar.zoatworks.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Amazon",
+  "description": "Acess Amazon.com",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.amazon.com"
+    ],
+    "launch": {
+      "web_url": "http://www.amazon.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

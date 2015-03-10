@@ -1,0 +1,17 @@
+{
+  "name": "Email",
+  "description": "Access Email",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://mail.google.com/a/zoatworks.net"
+    ],
+    "launch": {
+      "web_url": "http://mail.google.com/a/zoatworks.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

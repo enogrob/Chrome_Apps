@@ -1,0 +1,17 @@
+{
+    "name": "GuiaBolso",
+    "description": "Acess GuiaBolso",
+    "version": "1",
+    "manifest_version": 2,
+    "app": {
+        "urls": [
+            "https://www.guiabolso.com.br"
+        ],
+        "launch": {
+            "web_url": "https://www.guiabolso.com.br"
+        }
+    },
+    "icons": {
+        "128": "128.png"
+    }
+}

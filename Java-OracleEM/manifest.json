@@ -1,0 +1,17 @@
+{
+  "name": "OracleEM",
+  "description": "Access OracleEM",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://localhost:5500/em"
+    ],
+    "launch": {
+      "web_url": "https://localhost:1158/em"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

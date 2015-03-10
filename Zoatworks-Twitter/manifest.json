@@ -1,0 +1,17 @@
+{
+  "name": "Twitter",
+  "description": "Access Twitter",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.twitter.com/zoatworks"
+    ],
+    "launch": {
+      "web_url": "http://www.twitter.com/zoatworks"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

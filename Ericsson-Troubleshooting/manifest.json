@@ -1,0 +1,16 @@
+{
+  "name": "RICC Troubleshooting",
+  "description": "Access RICC Troubleshooting",
+  "version": "1",
+  "app": {
+    "urls": [
+      "http://146.250.159.180"
+    ],
+    "launch": {
+      "web_url": "http://146.250.159.180"
+    }
+  },
+  "icons": {
+    "128": "128.jpg"
+  }
+}

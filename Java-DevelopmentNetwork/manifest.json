@@ -1,0 +1,17 @@
+{
+  "name": "Development Network",
+  "description": "Access Development Network",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.oracle.com/technetwork/java/index.html"
+    ],
+    "launch": {
+      "web_url": "http://www.oracle.com/technetwork/java/index.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

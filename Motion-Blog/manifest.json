@@ -1,0 +1,17 @@
+{
+  "name": "Rubymotion Blog",
+  "description": "Access Rubymotion Blog",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://blog.rubymotion.com/"
+    ],
+    "launch": {
+      "web_url": "http://blog.rubymotion.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

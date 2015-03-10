@@ -1,0 +1,17 @@
+{
+  "name": "Bugs Database",
+  "description": "Access Bugs Database",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://bugs.sun.com/"
+    ],
+    "launch": {
+      "web_url": "http://bugs.sun.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Apple Developer",
+  "description": "Access Apple Developer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://developer.apple.com/"
+    ],
+    "launch": {
+      "web_url": "https://developer.apple.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

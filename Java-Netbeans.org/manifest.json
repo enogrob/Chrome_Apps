@@ -1,0 +1,17 @@
+{
+  "name": "Netbeans.org",
+  "description": "Access Netbeans.org",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.netbeans.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.netbeans.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

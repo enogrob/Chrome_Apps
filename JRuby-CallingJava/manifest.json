@@ -1,0 +1,17 @@
+{
+  "name": "Calling Java",
+  "description": "Access Calling Java",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/jruby/jruby/wiki/CallingJavaFromJRuby"
+    ],
+    "launch": {
+      "web_url": "https://github.com/jruby/jruby/wiki/CallingJavaFromJRuby"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

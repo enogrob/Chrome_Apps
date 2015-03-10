@@ -1,0 +1,17 @@
+{
+  "name": "CocoaDocs",
+  "description": "Acess CocoaDocs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://cocoadocs.org/"
+    ],
+    "launch": {
+      "web_url": "http://cocoadocs.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Java EE Docs",
+  "description": "Access Apple Java EE Docs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://docs.oracle.com/javaee/"
+    ],
+    "launch": {
+      "web_url": "http://docs.oracle.com/javaee/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

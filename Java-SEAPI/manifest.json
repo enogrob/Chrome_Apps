@@ -1,0 +1,17 @@
+{
+  "name": "Java SE API",
+  "description": "Access Java SE API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://docs.oracle.com/javase/7/docs/api/index.html"
+    ],
+    "launch": {
+      "web_url": "http://docs.oracle.com/javase/7/docs/api/index.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

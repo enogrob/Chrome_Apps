@@ -1,0 +1,17 @@
+{
+  "name": "JRuby Wiki",
+  "description": "Access JRuby Wiki",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://github.com/jruby/jruby/wiki"
+    ],
+    "launch": {
+      "web_url":"https://github.com/jruby/jruby/wiki"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "LinkedIn",
+  "description": "Acess LinkedIn.",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.linkedin.com/profile/view?id=8974132&trk=nav_responsive_tab_profile"
+    ],
+    "launch": {
+      "web_url": "http://www.linkedin.com/profile/view?id=8974132&trk=nav_responsive_tab_profile"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

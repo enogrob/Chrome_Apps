@@ -1,0 +1,17 @@
+{
+  "name": "Startific",
+  "description": "Access Jornal A Cidade",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://roberto-nogueira.startific.com/"
+    ],
+    "launch": {
+      "web_url": "http://roberto-nogueira.startific.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

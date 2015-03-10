@@ -1,0 +1,17 @@
+{
+  "name": "IMDb",
+  "description": "Acess IMDb",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.imdb.com"
+    ],
+    "launch": {
+      "web_url": "http://www.imdb.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

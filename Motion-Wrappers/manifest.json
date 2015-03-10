@@ -1,0 +1,17 @@
+{
+  "name": "Wrappers",
+  "description": "Access Wrappers",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubymotion-wrappers.com/"
+    ],
+    "launch": {
+      "web_url": "http://rubymotion-wrappers.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

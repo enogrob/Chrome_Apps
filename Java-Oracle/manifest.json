@@ -1,0 +1,17 @@
+{
+  "name": "Oracle",
+  "description": "Access Oracle",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.oracle.com/us/products/database/overview/index.html"
+    ],
+    "launch": {
+      "web_url": "http://www.oracle.com/us/products/database/overview/index.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

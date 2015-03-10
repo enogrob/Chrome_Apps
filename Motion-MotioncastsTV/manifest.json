@@ -1,0 +1,17 @@
+{
+  "name": "Motioncasts TV",
+  "description": "Access Motioncasts TV",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://motioncasts.tv/"
+    ],
+    "launch": {
+      "web_url": "http://motioncasts.tv/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

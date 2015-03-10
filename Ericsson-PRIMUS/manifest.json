@@ -1,0 +1,17 @@
+{
+  "name": "PRIMUS",
+  "description": "Access PRIMUS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://esessmw1355.ss.sw.ericsson.se/reader_iview/ui/eserver.asp"
+    ],
+    "launch": {
+      "web_url": "http://esessmw1355.ss.sw.ericsson.se/reader_iview/ui/eserver.asp"
+    }
+  },
+  "icons": {
+    "128": "128.jpg"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "JRuby API",
+  "description": "Access JRuby API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://jruby.org/apidocs/"
+    ],
+    "launch": {
+      "web_url": "http://jruby.org/apidocs/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

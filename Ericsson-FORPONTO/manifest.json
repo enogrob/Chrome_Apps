@@ -1,0 +1,17 @@
+{
+  "name": "FORPONTO",
+  "description": "Acess FORPONTO",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.br.am.ericsson.se/wpe"
+    ],
+    "launch": {
+      "web_url": "http://www.br.am.ericsson.se/wpe"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

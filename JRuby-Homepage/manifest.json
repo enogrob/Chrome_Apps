@@ -1,0 +1,17 @@
+{
+  "name": "JRuby",
+  "description": "Access JRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://jruby.org"
+    ],
+    "launch": {
+      "web_url": "http://jruby.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

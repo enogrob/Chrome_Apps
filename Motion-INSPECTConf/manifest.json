@@ -1,0 +1,17 @@
+{
+  "name": "#INSPECT",
+  "description": "Access #INSPECT",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://vimeo.com/groups/199097"
+    ],
+    "launch": {
+      "web_url": "http://vimeo.com/groups/199097"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

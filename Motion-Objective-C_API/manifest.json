@@ -1,0 +1,17 @@
+{
+  "name": "Objective-C API",
+  "description": "Access Objective-C API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html"
+    ],
+    "launch": {
+      "web_url": "https://developer.apple.com/library/ios/documentation/Cocoa/Reference/ObjCRuntimeRef/Reference/reference.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

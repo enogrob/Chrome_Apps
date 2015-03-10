@@ -1,0 +1,17 @@
+{
+  "name": "RVI",
+  "description": "Connect to the Ericsson by RVI - Racom Via Internet.",
+  "version": "2",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rvi.ericsson.net"
+    ],
+    "launch": {
+      "web_url": "http://rvi.ericsson.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

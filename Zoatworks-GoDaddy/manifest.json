@@ -1,0 +1,17 @@
+{
+  "name": "GoDaddy",
+  "description": "Access GoDaddy",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.godaddy.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.godaddy.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

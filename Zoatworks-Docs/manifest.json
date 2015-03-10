@@ -1,0 +1,17 @@
+{
+  "name": "Docs",
+  "description": "Access Docs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://docs.zoatworks.net"
+    ],
+    "launch": {
+      "web_url": "http://docs.zoatworks.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "World-Mysteries",
+  "description": "Access World-Mysteries",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.world-mysteries.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.world-mysteries.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

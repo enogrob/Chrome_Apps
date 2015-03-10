@@ -1,0 +1,17 @@
+{
+  "name": "Wikitravel",
+  "description": "Access Wikitravel",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://wikitravel.org/en/Main_Page"
+    ],
+    "launch": {
+      "web_url":"http://wikitravel.org/en/Main_Page"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

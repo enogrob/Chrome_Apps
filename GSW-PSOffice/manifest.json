@@ -1,0 +1,17 @@
+{
+  "name": "PSOffice",
+  "description": "Access PSOffice",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.mypsoffice02.com.br/gsw"
+    ],
+    "launch": {
+      "web_url": "http://www.mypsoffice02.com.br/gsw"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

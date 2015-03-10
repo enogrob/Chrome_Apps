@@ -1,0 +1,17 @@
+{
+  "name": "RICC Brazil",
+  "description": "Access RICC Brazil Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ericoll.internal.ericsson.com/sites/riccbrazil/default.aspx"
+    ],
+    "launch": {
+      "web_url": "https://ericoll.internal.ericsson.com/sites/riccbrazil/default.aspx"
+    }
+  },
+  "icons": {
+    "128": "128.jpg"
+  }
+}

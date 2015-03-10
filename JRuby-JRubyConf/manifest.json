@@ -1,0 +1,17 @@
+{
+  "name": "JRubyConf",
+  "description": "Access JRubyConf",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://vimeo.com/album/2009304"
+    ],
+    "launch": {
+      "web_url": "http://vimeo.com/album/2009304"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

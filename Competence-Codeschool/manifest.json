@@ -1,0 +1,17 @@
+{
+  "name": "codeschool",
+  "description": "Access Code School",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.codeschool.com/"
+    ],
+    "launch": {
+      "web_url": "https://www.codeschool.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

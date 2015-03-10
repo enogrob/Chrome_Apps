@@ -1,0 +1,17 @@
+{
+  "name": "ELIS",
+  "description": "Access ELIS",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://elis.ericsson.net"
+    ],
+    "launch": {
+      "web_url": "https://elis.ericsson.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

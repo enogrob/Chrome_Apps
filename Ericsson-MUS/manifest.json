@@ -1,0 +1,17 @@
+{
+  "name": "MUS",
+  "description": "Connect to the Ericsson MUS.",
+  "version": "3",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://ep.ss.sw.ericsson.se/irj/portal"
+    ],
+    "launch": {
+      "web_url": "https://ep.ss.sw.ericsson.se/irj/portal"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

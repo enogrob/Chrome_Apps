@@ -1,0 +1,17 @@
+{
+  "name": "codecademy",
+  "description": "Access Code Academy",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.codecademy.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.codecademy.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

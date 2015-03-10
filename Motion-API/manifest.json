@@ -1,0 +1,17 @@
+{
+  "name": "Rubymotion API",
+  "description": "Access Rubymotion API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.rubymotion.com/developer-center/guides/runtime/"
+    ],
+    "launch": {
+      "web_url": "http://www.rubymotion.com/developer-center/guides/runtime/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

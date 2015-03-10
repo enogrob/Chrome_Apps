@@ -1,0 +1,17 @@
+{
+  "name": "R Language",
+  "description": "Access R Language",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.r-project.org/"
+    ],
+    "launch": {
+      "web_url": "http://www.r-project.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

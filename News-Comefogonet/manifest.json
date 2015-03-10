@@ -1,0 +1,17 @@
+{
+  "name": "Comefogonet",
+  "description": "Access Comefogonet",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.comefogonet.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://www.comefogonet.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

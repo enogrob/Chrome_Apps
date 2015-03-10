@@ -1,0 +1,17 @@
+{
+  "name": "Glassfish",
+  "description": "Access Glassfish",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://glassfish.java.net/"
+    ],
+    "launch": {
+      "web_url": "https://glassfish.java.net/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
