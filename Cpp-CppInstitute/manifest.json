@@ -1,14 +1,14 @@
 {
-  "name": "Elixir",
-  "description": "Access Elixir",
+  "name": "CPP Institute",
+  "description": "Access CPP Institute",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://elixir-lang.org/"
+      "http://www.cppinstitute.org"
     ],
     "launch": {
-      "web_url": "http://elixir-lang.org/"
+      "web_url": "http://www.cppinstitute.org"
     }
   },
   "icons": {

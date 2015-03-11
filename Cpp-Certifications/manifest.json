@@ -1,0 +1,17 @@
+{
+  "name": "C/C++ Certifications",
+  "description": "Access C/C++ Certifications",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://education.cppinstitute.org"
+    ],
+    "launch": {
+      "web_url": "http://education.cppinstitute.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
