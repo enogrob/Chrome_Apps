@@ -1,0 +1,17 @@
+{
+  "name": "Tuts+",
+  "description": "Access Tuts+",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://tutsplus.com"
+    ],
+    "launch": {
+      "web_url": "https://tutsplus.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
