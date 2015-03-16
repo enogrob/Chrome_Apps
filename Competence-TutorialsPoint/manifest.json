@@ -1,14 +1,14 @@
 {
-  "name": "TuturialsPoint",
+  "name": "tuturialspoint",
   "description": "Access TutorialsPoint",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://http://www.tutorialspoint.com"
+      "http://www.tutorialspoint.com"
     ],
     "launch": {
-      "web_url": "https://http://www.tutorialspoint.com"
+      "web_url": "http://www.tutorialspoint.com"
     }
   },
   "icons": {
