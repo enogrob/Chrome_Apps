@@ -1,0 +1,17 @@
+{
+  "name": "Wolfram Alpha",
+  "description": "Access Wolfram Alpha",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.wolframalpha.com"
+    ],
+    "launch": {
+      "web_url": "http://www.wolframalpha.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
