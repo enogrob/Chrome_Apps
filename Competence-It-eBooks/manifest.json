@@ -1,0 +1,17 @@
+{
+  "name": "It eBooks",
+  "description": "Access It eBooks",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://it-ebooks.info"
+    ],
+    "launch": {
+      "web_url": "http://it-ebooks.info"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
