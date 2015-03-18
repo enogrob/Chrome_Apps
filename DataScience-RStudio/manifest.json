@@ -1,0 +1,17 @@
+{
+  "name": "RStudio",
+  "description": "Access RStudio",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.rstudio.com"
+    ],
+    "launch": {
+      "web_url": "http://www.rstudio.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
