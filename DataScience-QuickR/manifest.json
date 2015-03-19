@@ -1,0 +1,17 @@
+{
+  "name": "QuickR",
+  "description": "Access QuickR",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.statmethods.net"
+    ],
+    "launch": {
+      "web_url": "http://www.statmethods.net"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

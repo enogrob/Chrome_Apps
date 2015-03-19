@@ -1,0 +1,17 @@
+{
+  "name": "RDocs",
+  "description": "Access RDocs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.rdocumentation.org"
+    ],
+    "launch": {
+      "web_url": "http://www.rdocumentation.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
