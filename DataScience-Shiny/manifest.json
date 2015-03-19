@@ -1,14 +1,14 @@
 {
-  "name": "Knitr",
-  "description": "Access Knitr",
+  "name": "Shiny",
+  "description": "Access Shiny",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://yihui.name/knitr"
+      "http://shiny.rstudio.com"
     ],
     "launch": {
-      "web_url": "http://yihui.name/knitr"
+      "web_url": "http://shiny.rstudio.com"
     }
   },
   "icons": {
