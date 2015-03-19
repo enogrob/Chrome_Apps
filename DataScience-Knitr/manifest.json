@@ -1,14 +1,14 @@
 {
-  "name": "RStudio",
-  "description": "Access RStudio",
+  "name": "knitr",
+  "description": "Access Knitr",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://www.rstudio.com"
+      "http://yihui.name/knitr"
     ],
     "launch": {
-      "web_url": "http://www.rstudio.com"
+      "web_url": "http://yihui.name/knitr"
     }
   },
   "icons": {
