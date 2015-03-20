@@ -1,0 +1,17 @@
+{
+  "name": "C++ API",
+  "description": "Access C++ API",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.cplusplus.com/reference"
+    ],
+    "launch": {
+      "web_url": "http://www.cplusplus.com/reference"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
