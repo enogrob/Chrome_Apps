@@ -1,0 +1,17 @@
+{
+  "name": "ClionTV",
+  "description": "Access ClionTV",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.youtube.com/playlist?list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL"
+    ],
+    "launch": {
+      "web_url": "https://www.youtube.com/playlist?list=PLQ176FUIyIUb_J7ZEi2IDe9132-dq_vQL"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
