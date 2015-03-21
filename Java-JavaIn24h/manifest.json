@@ -1,0 +1,17 @@
+{
+  "name": "Java in 24hs",
+  "description": "Access Java in 24h",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://workbench.cadenhead.org/book/java-7-24-hours/"
+    ],
+    "launch": {
+      "web_url": "http://workbench.cadenhead.org/book/java-7-24-hours/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
