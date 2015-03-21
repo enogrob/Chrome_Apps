@@ -1,0 +1,17 @@
+{
+  "name": "C++ Homepage",
+  "description": "Access C++ Homepage",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://isocpp.org/"
+    ],
+    "launch": {
+      "web_url": "http://isocpp.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
