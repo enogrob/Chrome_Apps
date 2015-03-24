@@ -1,0 +1,17 @@
+{
+  "name": "Catho Vagas",
+  "description": "Acess Vagas",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.vagas.com.br"
+    ],
+    "launch": {
+      "web_url": "http://www.vagas.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
