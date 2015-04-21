@@ -1,0 +1,17 @@
+{
+  "name": "Javascript",
+  "description": "Access Javascript",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.w3schools.com/js/"
+    ],
+    "launch": {
+      "web_url": "http://www.w3schools.com/js/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
