@@ -1,0 +1,17 @@
+{
+  "name": "JQuery",
+  "description": "Access JQuery",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://api.jquery.com/"
+    ],
+    "launch": {
+      "web_url": "http://api.jquery.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
