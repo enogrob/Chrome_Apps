@@ -1,6 +1,6 @@
 {
-  "name": "Rubybench",
-  "description": "Access Rubybench",
+  "name": "RubyBench",
+  "description": "Access RubyBench",
   "version": "1",
   "manifest_version": 2,
   "app": {
