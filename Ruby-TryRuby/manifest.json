@@ -1,0 +1,17 @@
+{
+  "name": "TryRuby",
+  "description": "Access TryRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://tryruby.org/"
+    ],
+    "launch": {
+      "web_url": "http://tryruby.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
