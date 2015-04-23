@@ -1,0 +1,17 @@
+{
+  "name": "Rubybench",
+  "description": "Access Rubybench",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rubybench.org/"
+    ],
+    "launch": {
+      "web_url": "http://rubybench.org/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
