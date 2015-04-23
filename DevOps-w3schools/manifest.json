@@ -1,14 +1,14 @@
 {
-  "name": "JQuery",
-  "description": "Access JQuery",
+  "name": "w3schools",
+  "description": "Access w3schools",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://api.jquery.com/"
+      "http://www.w3schools.com/"
     ],
     "launch": {
-      "web_url": "http://api.jquery.com/"
+      "web_url": "http://www.w3schools.com/"
     }
   },
   "icons": {
