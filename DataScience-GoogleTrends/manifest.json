@@ -1,0 +1,17 @@
+{
+  "name": "Google Trends",
+  "description": "Access Google Trends",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.google.com/trends/"
+    ],
+    "launch": {
+      "web_url": "http://www.google.com/trends/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
