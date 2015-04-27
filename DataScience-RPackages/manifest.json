@@ -1,0 +1,17 @@
+{
+  "name": "R Packages",
+  "description": "Access R Packages",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://cran.rstudio.com/web/packages/available_packages_by_name.html"
+    ],
+    "launch": {
+      "web_url": "http://cran.rstudio.com/web/packages/available_packages_by_name.html"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
