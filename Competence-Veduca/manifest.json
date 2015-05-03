@@ -1,0 +1,17 @@
+{
+  "name": "Veduca",
+  "description": "Access Veduca",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.veduca.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://www.veduca.com.br/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
