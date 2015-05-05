@@ -1,0 +1,17 @@
+{
+  "name": "UK moodle",
+  "description": "UK moodle",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://moodle.kent.ac.uk/external/my/"
+    ],
+    "launch": {
+      "web_url": "https://moodle.kent.ac.uk/external/my/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
