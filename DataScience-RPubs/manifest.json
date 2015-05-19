@@ -1,0 +1,17 @@
+{
+  "name": "RPubs",
+  "description": "Access RPubs",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://rpubs.com/"
+    ],
+    "launch": {
+      "web_url": "http://rpubs.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
