@@ -1,6 +1,6 @@
 {
-  "name": "DCLWeb",
-  "description": "Access DCLWeb",
+  "name": "WebDCL-AMC",
+  "description": "WebDCL-AMC",
   "version": "1",
   "manifest_version": 2,
   "app": {

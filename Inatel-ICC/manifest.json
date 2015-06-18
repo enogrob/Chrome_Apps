@@ -1,14 +1,14 @@
 {
-  "name": "Inatel Homepage",
-  "description": "Access Inatel Homepage",
+  "name": "ICC",
+  "description": "Access ICC",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://www.inatel.br"
+      "http://www.inatel.br/icc/"
     ],
     "launch": {
-      "web_url": "http://www.inatel.br"
+      "web_url": "http://www.inatel.br/icc/"
     }
   },
   "icons": {
