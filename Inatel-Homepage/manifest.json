@@ -1,6 +1,6 @@
 {
-  "name": "Inatel Homepage",
-  "description": "Access Inatel Homepage",
+  "name": "Homepage",
+  "description": "Access Homepage",
   "version": "1",
   "manifest_version": 2,
   "app": {
