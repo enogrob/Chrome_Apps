@@ -1,0 +1,17 @@
+{
+  "name": "ALEX",
+  "description": "Access ALEX",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://localhost:9032/alex"
+    ],
+    "launch": {
+      "web_url": "http://localhost:9032/alex"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
