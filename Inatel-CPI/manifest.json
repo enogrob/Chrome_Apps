@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://cpistore.internal.ericsson.com/alex"
+      "http://cpistore.internal.ericsson.com"
     ],
     "launch": {
-      "web_url": "http://cpistore.internal.ericsson.com/alex"
+      "web_url": "http://cpistore.internal.ericsson.com"
     }
   },
   "icons": {
