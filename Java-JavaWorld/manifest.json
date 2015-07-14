@@ -1,0 +1,17 @@
+{
+  "name": "JavaWorld",
+  "description": "Access JavaWorld",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.javaworld.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.javaworld.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
