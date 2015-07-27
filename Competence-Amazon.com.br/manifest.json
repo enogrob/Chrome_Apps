@@ -3,7 +3,6 @@
   "description": "Access Amazon.com",
   "manifest_version": 2,
   "homepage_url": "http://www.amazon.com",
-  "key": "Competence-Amazon.com",
   "icons": {
     "128": "128.png"
   }
