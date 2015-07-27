@@ -1,17 +1,8 @@
 {
   "name": "Amazon",
-  "key":"Competecence-Amazon.com",
-  "description": "Acess Amazon.com",
-  "version": "1",
+  "description": "Access Amazon.com",
   "manifest_version": 2,
-  "app": {
-    "urls": [
-      "http://www.amazon.com"
-    ],
-    "launch": {
-      "web_url": "http://www.amazon.com"
-    }
-  },
+  "homepage_url": "http://www.amazon.com",
   "icons": {
     "128": "128.png"
   }

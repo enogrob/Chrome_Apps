@@ -1,8 +1,8 @@
 {
   "name": "Amazon",
-  "description": "Access Amazon.com",
+  "description": "Access Amazon.com.br",
   "manifest_version": 2,
-  "homepage_url": "http://www.amazon.com",
+  "homepage_url": "http://www.amazon.com.br",
   "icons": {
     "128": "128.png"
   }
