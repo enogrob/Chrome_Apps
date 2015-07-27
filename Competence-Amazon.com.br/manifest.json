@@ -1,6 +1,7 @@
 {
   "name": "Amazon",
   "description": "Access Amazon.com.br",
+  "version": "1",
   "manifest_version": 2,
   "homepage_url": "http://www.amazon.com.br",
   "icons": {
