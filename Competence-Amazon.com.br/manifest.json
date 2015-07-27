@@ -1,5 +1,6 @@
 {
   "name": "Amazon",
+  "key":"Competecence-Amazon.com.br",
   "description": "Acess AAmazon.com",
   "version": "1",
   "manifest_version": 2,
