@@ -1,9 +1,16 @@
 {
-  "name": "Amazon",
-  "description": "Access Amazon.com.br",
+  "name": "Amazon Kindle",
+  "description": "Access Amazon Kindle",
   "version": "1",
   "manifest_version": 2,
-  "homepage_url": "http://www.amazon.com.br",
+  "app": {
+    "urls": [
+      "http://www.amazon.com.br/"
+    ],
+    "launch": {
+      "web_url": "http://www.amazon.com.br/"
+    }
+  },
   "icons": {
     "128": "128.png"
   }
