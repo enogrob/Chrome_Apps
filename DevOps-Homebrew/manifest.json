@@ -1,6 +1,6 @@
 {
-  "name": "Homebrew",
-  "description": "Access Homebrew",
+  "name": "Brew",
+  "description": "Access Brew",
   "version": "1",
   "manifest_version": 2,
   "app": {
