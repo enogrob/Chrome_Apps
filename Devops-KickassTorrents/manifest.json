@@ -1,6 +1,6 @@
 {
-  "name": "KickassTorrents",
-  "description": "Access KickassTorrents",
+  "name": "Kickass",
+  "description": "Access Kickass",
   "version": "1",
   "manifest_version": 2,
   "app": {
