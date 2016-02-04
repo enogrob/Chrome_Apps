@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://pragprog.com/categories/ruby_and_rails"
+      "http://pragprog.com/titles"
     ],
     "launch": {
-      "web_url": "http://pragprog.com/categories/ruby_and_rails"
+      "web_url": "http://pragprog.com/titles"
     }
   },
   "icons": {
