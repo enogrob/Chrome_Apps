@@ -1,0 +1,17 @@
+{
+  "name": "AllIt eBooks",
+  "description": "Access AllIt eBooks",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.allitebooks.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.allitebooks.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
