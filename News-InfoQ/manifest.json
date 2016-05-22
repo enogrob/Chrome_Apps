@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://www.infoq.com/topics"
+      "http://www.infoq.com"
     ],
     "launch": {
-      "web_url": "http://www.infoq.com/topics"
+      "web_url": "http://www.infoq.com"
     }
   },
   "icons": {
