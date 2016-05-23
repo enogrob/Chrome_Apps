@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://shop.oreilly.com/category/browse-subjects/programming/ruby.do"
+      "http://shop.oreilly.com"
     ],
     "launch": {
-      "web_url": "http://shop.oreilly.com/category/browse-subjects/programming/ruby.do"
+      "web_url": "http://shop.oreilly.com"
     }
   },
   "icons": {
