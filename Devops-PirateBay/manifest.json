@@ -1,14 +1,14 @@
 {
-  "name": “PirateBay”,
-  "description": "Access PirateBay”,
+  "name": "PirateBay",
+  "description": "Access PirateBay",
   "version": "1",
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://thepiratebay.org"
+      "https://thepiratebay.org/"
     ],
     "launch": {
-      "web_url": "https://thepiratebay.org"
+      "web_url": "https://thepiratebay.org/"
     }
   },
   "icons": {
