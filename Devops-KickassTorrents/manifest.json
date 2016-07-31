@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://kat.cr"
+      "http://kickasstorrentsan.com/"
     ],
     "launch": {
-      "web_url": "https://kat.cr"
+      "web_url": "http://kickasstorrentsan.com/"
     }
   },
   "icons": {
