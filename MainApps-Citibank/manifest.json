@@ -1,0 +1,17 @@
+{
+  "name": "Citibank",
+  "description": "Access Citibank",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.citibank.com.br/BRGCB/JPS/portal/Index.do"
+    ],
+    "launch": {
+      "web_url": "https://www.citibank.com.br/BRGCB/JPS/portal/Index.do"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
