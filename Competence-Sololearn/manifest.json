@@ -1,0 +1,17 @@
+{
+  "name": "Sololearn",
+  "description": "Access Sololearn",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.sololearn.com/"
+    ],
+    "launch": {
+      "web_url": "http://www.sololearn.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
