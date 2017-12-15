@@ -1,0 +1,17 @@
+{
+  "name": "Dashing Framework",
+  "description": "Access Dashing Framework",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://dashing.io"
+    ],
+    "launch": {
+      "web_url": "http://dashing.io"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Sinatra Framework",
+  "description": "Access Sinatra Framework",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://sinatrarb.com"
+    ],
+    "launch": {
+      "web_url": "http://sinatrarb.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
