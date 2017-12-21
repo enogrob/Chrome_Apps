@@ -1,0 +1,17 @@
+{
+  "name": "Chart.js",
+  "description": "Access Chart.js",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://www.chartjs.org"
+    ],
+    "launch": {
+      "web_url": "http://www.chartjs.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
