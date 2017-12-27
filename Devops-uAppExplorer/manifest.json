@@ -1,0 +1,17 @@
+{
+  "name": "uAppExplorer",
+  "description": "Access uAppExplorer",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://uappexplorer.com"
+    ],
+    "launch": {
+      "web_url": "https://uappexplorer.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
