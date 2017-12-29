@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://webbrain.com/brainpage/brain/63D6CDAD-FA8D-AD59-D162-6E550B9FE374"
+      "https://app.thebrain.com/brains/63d6cdad-fa8d-ad59-d162-6e550b9fe374/thoughts/0584093d-742a-55ca-84d7-860d86c2d006/attachments/7d0fe6b3-9cd7-5f5b-864f-aa1e8e9af565"
     ],
     "launch": {
-      "web_url": "http://webbrain.com/brainpage/brain/63D6CDAD-FA8D-AD59-D162-6E550B9FE374"
+      "web_url": "https://app.thebrain.com/brains/63d6cdad-fa8d-ad59-d162-6e550b9fe374/thoughts/0584093d-742a-55ca-84d7-860d86c2d006/attachments/7d0fe6b3-9cd7-5f5b-864f-aa1e8e9af565"
     }
   },
   "icons": {
