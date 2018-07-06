@@ -1,0 +1,17 @@
+{
+  "name": "DriftingRuby",
+  "description": "Access DriftingRuby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.driftingruby.com"
+    ],
+    "launch": {
+      "web_url": "https://www.driftingruby.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
