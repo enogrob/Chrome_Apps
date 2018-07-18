@@ -1,0 +1,17 @@
+{
+  "name": "OutlookWeb",
+  "description": "Access OutlookWeb",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://exchange.vcaremail.com.br"
+    ],
+    "launch": {
+      "web_url": "https://exchange.vcaremail.com.br"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
