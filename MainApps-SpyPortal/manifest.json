@@ -1,0 +1,17 @@
+{
+  "name": "SpyPortal",
+  "description": "Access SpyPortal",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "http://172.27.72.27/cgi-mod/spyportal.cgi"
+    ],
+    "launch": {
+      "web_url": "http://172.27.72.27/cgi-mod/spyportal.cgi"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
