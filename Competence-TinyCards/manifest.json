@@ -1,0 +1,17 @@
+{
+  "name": "TinyCards",
+  "description": "Access Cards",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://tinycards.duolingo.com"
+    ],
+    "launch": {
+      "web_url": "https://tinycards.duolingo.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
