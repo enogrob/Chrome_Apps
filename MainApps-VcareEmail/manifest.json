@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://exchange.vcaremail.com.br"
+      "https://mail.uoldiveosaas.com.br/owa"
     ],
     "launch": {
-      "web_url": "https://exchange.vcaremail.com.br"
+      "web_url": "https://mail.uoldiveosaas.com.br/owa"
     }
   },
   "icons": {
