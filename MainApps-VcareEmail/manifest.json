@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "https://mail.uoldiveosaas.com.br/owa"
+      "https://outlook.office.com/owa"
     ],
     "launch": {
-      "web_url": "https://mail.uoldiveosaas.com.br/owa"
+      "web_url": "https://outlook.office.com/owa"
     }
   },
   "icons": {
