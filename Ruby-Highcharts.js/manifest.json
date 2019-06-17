@@ -1,0 +1,17 @@
+{
+  "name": "Highcharts.js",
+  "description": "Access Highcharts.js",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://www.highcharts.com"
+    ],
+    "launch": {
+      "web_url": "https://www.highcharts.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
