@@ -1,0 +1,17 @@
+{
+  "name": "Hyperskill",
+  "description": "Access Hyperskill",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://hyperskill.org"
+    ],
+    "launch": {
+      "web_url": "https://hyperskill.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
