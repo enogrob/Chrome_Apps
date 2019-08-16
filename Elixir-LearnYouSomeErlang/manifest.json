@@ -1,0 +1,17 @@
+{
+  "name": "Learn Erlang",
+  "description": "Access Learn Erlang",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://learnyousomeerlang.com/content"
+    ],
+    "launch": {
+      "web_url": "https://learnyousomeerlang.com/content"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
