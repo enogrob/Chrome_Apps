@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://rubyweekly.com/issues"
+      "https://rubyweekly.com/latest"
     ],
     "launch": {
-      "web_url": "http://rubyweekly.com/issues"
+      "web_url": "https://rubyweekly.com/latest"
     }
   },
   "icons": {
