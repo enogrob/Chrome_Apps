@@ -5,10 +5,10 @@
   "manifest_version": 2,
   "app": {
     "urls": [
-      "http://pigshell.com/v/0.6.2/"
+      "http://pigshell.com"
     ],
     "launch": {
-      "web_url": "http://pigshell.com/v/0.6.2/"
+      "web_url": "http://pigshell.com"
     }
   },
   "icons": {
