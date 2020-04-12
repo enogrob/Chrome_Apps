@@ -1,0 +1,17 @@
+{
+  "name": "Dry Ruby",
+  "description": "Access Dry Ruby",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://dry-rb.org"
+    ],
+    "launch": {
+      "web_url": "https://dry-rb.org"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}

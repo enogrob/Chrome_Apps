@@ -1,0 +1,17 @@
+{
+  "name": "Yarn",
+  "description": "Access Yarn",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://yarnpkg.com"
+    ],
+    "launch": {
+      "web_url": "https://yarnpkg.com"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
