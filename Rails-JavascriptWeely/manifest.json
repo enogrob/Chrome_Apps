@@ -1,0 +1,17 @@
+{
+  "name": "Javascript Weekly",
+  "description": "Access Javascript Weekly",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://javascriptweekly.com/latest"
+    ],
+    "launch": {
+      "web_url": "https://javascriptweekly.com/latest"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
