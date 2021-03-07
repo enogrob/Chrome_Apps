@@ -1,0 +1,17 @@
+{
+  "name": "KindleCloud",
+  "description": "Access KindleCloud",
+  "version": "1",
+  "manifest_version": 2,
+  "app": {
+    "urls": [
+      "https://read.amazon.com/"
+    ],
+    "launch": {
+      "web_url":"https://read.amazon.com/"
+    }
+  },
+  "icons": {
+    "128": "128.png"
+  }
+}
